@@ -1,0 +1,275 @@
+{
+    "title": "Tierlist Honkai",
+    "dps": {
+     "FIRE DPS": {
+      "Herrscher of Finality": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1676558848hofipng.png",
+        "name": "Herrscher of Finality",
+        "pilot": "Kiana Kaslana",
+        "role": "Melee Fire DPS",
+        "tier": "EX"
+       }
+      ],
+      "Herrscher of Flamescion": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1628838520hofpng.png",
+        "name": "Herrscher of Flamescion",
+        "pilot": "Kiana Kaslana",
+        "role": "Melee Fire DPS",
+        "tier": "S"
+       }
+      ],
+      "Helical Contraption": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1660368634vvpng.png",
+        "name": "Helical Contraption",
+        "pilot": "Vill-V",
+        "role": "Shoots fire long range",
+        "tier": "S"
+       }
+      ],
+      "Spina Astera": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1645702798spapng.png",
+        "name": "Spina Astera",
+        "pilot": "Rita Rossweisse",
+        "role": "Melee burst DMG dealer",
+        "tier": "S-"
+       }
+      ]
+     },
+     "LIGHTNING DPS": {
+      "Herrscher of Origin": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1676558828hoopng.png",
+        "name": "Herrscher of Origin",
+        "pilot": "Raiden Mei",
+        "role": "Melee damage dealer",
+        "tier": "EX"
+       }
+      ],
+      "Herrscher of Thunder": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/hotpng.png",
+        "name": "Herrscher of Thunder",
+        "pilot": "Kiana Kaslana",
+        "role": "Melee damage dealer",
+        "tier": "EX"
+       }
+      ],
+      "Infinite Ouroboros": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1634899197iopng.png",
+        "name": "Infinite Ouroboros",
+        "pilot": "Mobius",
+        "role": "Ranged Lightning DMG dealer with fast mob clearing",
+        "tier": "S"
+       }
+      ],
+      "Disciplinary Perdition": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1654620444appng.png",
+        "name": "Disciplinary Perdition",
+        "pilot": "Aponia",
+        "role": "Long-range Lightning DPS.",
+        "tier": "S"
+       }
+      ]
+     },
+     "ICE DPS": {
+      "Herrscher of Truth": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1673515605hotrpng.png",
+        "name": "Herrscher of Thunder",
+        "pilot": "Bronya Zaychik",
+        "role": "Ranged Elemental support",
+        "tier": "EX"
+       }
+      ],
+      "Herrscher of Human: Ego": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1663259967hohpng.png",
+        "name": "Herrscher of Human: Ego",
+        "pilot": "Elysia",
+        "role": "A ranged Ice DMG dealer",
+        "tier": "EX"
+       }
+      ],
+      "Silverwing: N-EX": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1642234358swpng.png",
+        "name": "Silverwing: N-EX",
+        "pilot": "Bronya Zaychik",
+        "role": "Ranged Ice DPS",
+        "tier": "S"
+       }
+      ],
+      "Herrscher of Reason": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/horpng.png",
+        "name": "Herrscher of Reason",
+        "pilot": "Bronya Zaychik",
+        "role": "Melee. Gathers Konstruktyom",
+        "tier": "S"
+       }
+      ]
+     },
+     "PHYSICAL DPS": {
+      "Palatinus Equinox": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1645702798pepng.png",
+        "name": "Palatinus Equinox",
+        "pilot": "Durandal",
+        "role": "Melee Physical DMG dealer",
+        "tier": "S"
+       }
+      ],
+      "Miss Pink Elf♪": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1631786732mpepng.png",
+        "name": "Miss Pink Elf♪",
+        "pilot": "Elysia",
+        "role": "Ranged Physical DMG dealer",
+        "tier": "S"
+       }
+      ]
+     }
+    },
+    "support": {
+     "FIRE SUPPORT": {
+      "Herrscher of Truth": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1673515605hotrpng.png",
+        "name": "Herrscher of Thunder",
+        "pilot": "Bronya Zaychik",
+        "role": "Ranged Elemental support",
+        "tier": "EX"
+       }
+      ],
+      "Chrono Navi": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1670495438cnpng.png",
+        "name": "Chrono Navi",
+        "pilot": "Ai Hyperion Λ",
+        "role": "Fire DMG support",
+        "tier": "S"
+       }
+      ],
+      "Midnight Absinthe": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1634899216mapng.png",
+        "name": "Midnight Absinthe",
+        "pilot": "Natasha Cioara",
+        "role": "Ranged Elemental Support",
+        "tier": "S-"
+       }
+      ],
+      "Reverist Calico": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1649321279rcpng.png",
+        "name": "Reverist Calico",
+        "pilot": "Pardofelis",
+        "role": "Melee Ice DPS / Support",
+        "tier": "S-"
+       }
+      ]
+     },
+     "LIGHTNING SUPPORT": {
+      "Herrscher of Truth": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1673515605hotrpng.png",
+        "name": "Herrscher of Thunder",
+        "pilot": "Bronya Zaychik",
+        "role": "Ranged Elemental support",
+        "tier": "EX"
+       }
+      ],
+      "Golden Diva": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1654620444edenpng.png",
+        "name": "Golden Diva",
+        "pilot": "Eden",
+        "role": "Long-range Lightning DPS / Support",
+        "tier": "S"
+       }
+      ],
+      "Prinzessin der Verurteilung!": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1625737594fipng.png",
+        "name": "Prinzessin der Verurteilung!",
+        "pilot": "Fischl",
+        "role": "Long-range Lightning DMG dealer / Support",
+        "tier": "S-"
+       }
+      ],
+      "Reverist Calico": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1649321279rcpng.png",
+        "name": "Reverist Calico",
+        "pilot": "Pardofelis",
+        "role": "Melee Ice DPS / Support",
+        "tier": "S-"
+       }
+      ]
+     },
+     "ICE SUPPORT": {
+      "Jade Knight": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zzzzz-1666868190suspng.png",
+        "name": "Jade Knight",
+        "pilot": "Li Sushang",
+        "role": "Ice support",
+        "tier": "EX"
+       }
+      ],
+      "Reverist Calico": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1649321279rcpng.png",
+        "name": "Reverist Calico",
+        "pilot": "Pardofelis",
+        "role": "Melee Ice DPS / Support",
+        "tier": "EX"
+       }
+      ],
+      "Haxxor Bunny": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1619459722hbpng.png",
+        "name": "Haxxor Bunny",
+        "pilot": "Bronya Zaychik",
+        "role": "Mid-range sustained DMG dealer / Support",
+        "tier": "S"
+       }
+      ]
+     },
+     "PHYSICAL SUPPORT": {
+      "Herrscher of Sentience": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1614952724hospng.png",
+        "name": "Herrscher of Sentience",
+        "pilot": "Fu Hua",
+        "role": "Physical support",
+        "tier": "EX"
+       }
+      ],
+      "Starry Impression": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1656580069griseopng.png",
+        "name": "Starry Impression",
+        "pilot": "Griseo",
+        "role": "Melee Physical support",
+        "tier": "S"
+       }
+      ],
+      "Sweet 'n' Spicy": [
+       {
+        "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/zz1638442907snspng.png",
+        "name": "Sweet 'n' Spicy",
+        "pilot": "Carole Pepper",
+        "role": "MECH-type melee Physical support",
+        "tier": "S-"
+       }
+      ]
+     }
+    }
+}
