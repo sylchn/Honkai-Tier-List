@@ -1,5 +1,5 @@
 {
-    "title": "Tierlist Honkai",
+    "title": "THonkai Impact 3rd v6.4 Tier List",
     "dps": {
      "FIRE DPS": {
       "Herrscher of Finality": [
@@ -52,8 +52,8 @@
       "Herrscher of Thunder": [
        {
         "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/hotpng.png",
-        "name": "Herrscher of Thunder",
-        "pilot": "Kiana Kaslana",
+        "name": "Herrscher of Thunder (SS)",
+        "pilot": "Raiden Mei",
         "role": "Melee damage dealer",
         "tier": "EX"
        }
@@ -108,7 +108,7 @@
       "Herrscher of Reason": [
        {
         "image": "https://tiermaker.com/images/chart/chart/honkai-impact-3-characters-572209/horpng.png",
-        "name": "Herrscher of Reason",
+        "name": "Herrscher of Reason (SS)",
         "pilot": "Bronya Zaychik",
         "role": "Melee. Gathers Konstruktyom",
         "tier": "S"
@@ -144,7 +144,7 @@
         "name": "Herrscher of Thunder",
         "pilot": "Bronya Zaychik",
         "role": "Ranged Elemental support",
-        "tier": "EX"
+        "tier": "S"
        }
       ],
       "Chrono Navi": [
@@ -182,7 +182,7 @@
         "name": "Herrscher of Thunder",
         "pilot": "Bronya Zaychik",
         "role": "Ranged Elemental support",
-        "tier": "EX"
+        "tier": "S"
        }
       ],
       "Golden Diva": [
@@ -220,7 +220,7 @@
         "name": "Jade Knight",
         "pilot": "Li Sushang",
         "role": "Ice support",
-        "tier": "EX"
+        "tier": "S"
        }
       ],
       "Reverist Calico": [
@@ -229,7 +229,7 @@
         "name": "Reverist Calico",
         "pilot": "Pardofelis",
         "role": "Melee Ice DPS / Support",
-        "tier": "EX"
+        "tier": "S"
        }
       ],
       "Haxxor Bunny": [
@@ -238,7 +238,7 @@
         "name": "Haxxor Bunny",
         "pilot": "Bronya Zaychik",
         "role": "Mid-range sustained DMG dealer / Support",
-        "tier": "S"
+        "tier": "S-"
        }
       ]
      },
@@ -249,7 +249,7 @@
         "name": "Herrscher of Sentience",
         "pilot": "Fu Hua",
         "role": "Physical support",
-        "tier": "EX"
+        "tier": "S"
        }
       ],
       "Starry Impression": [
